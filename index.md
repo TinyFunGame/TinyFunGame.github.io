@@ -95,6 +95,6 @@ If there are any questions regarding this privacy policy, you may contact us usi
 
 # Website: [TinyFunGame](https://TinyFunGame.github.io)
 
-# Email: [contact support](youxi_kefu@163.com)
+# Email: [youxi_kefu@163.com](youxi_kefu@163.com)
 
 Last Edited on 2017-10-10
