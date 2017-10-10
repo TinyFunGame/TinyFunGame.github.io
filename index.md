@@ -123,6 +123,7 @@ and we will promptly remove you from ALL correspondence.
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
 Website: https://github.com/SolitaireCardGame/SolitaireCardGame.
-Email: [contact support]youxi_kefu@163.com
+
+Email: [contact support] youxi_kefu@163.com
 
 Last Edited on 2017-10-10
